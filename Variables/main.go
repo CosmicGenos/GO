@@ -42,4 +42,15 @@ func main(){
 	
 	var emptyusername string = ""
 	fmt.Println(emptyusername)
+
+	number := 42
+	fmt.Println(number)
+
+	number2 := 3.14
+	fmt.Println(number2)
+
+	string := "Hello, World!"
+	fmt.Println(string)
+
+	
 }
